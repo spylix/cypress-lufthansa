@@ -3,7 +3,7 @@
 const iterations = 10;
 let countTime = 0;
 
-const tenant = "os";
+const tenant = "lh";
 
 const homepage = {
   lh: "https://www.lufthansa.com/de/en/homepage",
